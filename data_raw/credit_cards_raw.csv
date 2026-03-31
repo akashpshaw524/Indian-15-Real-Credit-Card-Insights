@@ -1,0 +1,17 @@
+card_id,bank_name,card_name,category,card_network,joining_fee,annual_fee,fee_waiver_spend,is_lifetime_free,reward_online_pct,reward_offline_pct,reward_fuel_pct,forex_markup_pct,lounge_domestic_yr,lounge_intl_yr,interest_rate_pa,min_cibil,min_income_monthly,best_for
+1,SBI Card,SBI Cashback Credit Card ,cashback,VISA,Rs.999,Rs.999,200000,0,5%,1%,N/A,3.50%,0,0,42.00%,720,25000,Online shoppers; flat 5% on ALL e-commerce
+2,Axis Bank,Axis ACE Credit Card,Cashback,visa,Rs.499,Rs.499,200000,0,4%,1.5%,-,1.00%,4,0,42.00%,700,20000,Millennials; 5% on utility bills via Google Pay
+3,ICICI Bank,Amazon Pay ICICI Credit Card,CASHBACK,Visa,NIL,NIL,,1,5%,1%,N/A,3.50%,0,0,42.00%,700,15000,Amazon Prime members; zero annual fee
+4,HDFC Bank, HDFC Millennia Credit Card,cashback,visa,Rs.1000,Rs.1000,100000,0,5%,1%,-,3.50%,2,0,42.00%,720,35000,Young professionals; 5% cashback on top platforms
+5,HDFC Bank,HDFC Regalia Gold,Travel,VISA,Rs.2500,Rs.2500,500000,No,5%,2%,N/A,2.00%,12,6,42.00%,750,100000,Frequent flyers; 12 domestic + 6 intl lounge visits
+6,Axis Bank,Axis Atlas Credit Card ,travel,Visa,Rs.5000,Rs.5000,N/A,0,5%,2%,-,2.00%,18,12,42.00%,750,150000,Multi-airline flyers; EDGE Miles
+7,American Express,Amex Platinum Travel Card,TRAVEL,AMEX,Rs.5000,Rs.5000,N/A,No,2%,1%,N/A,3.50%,8,4,42.00%,750,100000,Premium travelers; Amex lounges
+8,IDFC FIRST Bank,IDFC FIRST Ashva Card,travel,visa,Rs.2999,Rs.2999,-,No,3%,1.5%,-,1.50%,-1,4,42.00%,750,120000,Unlimited domestic lounge; lowest forex
+9,SBI Card,BPCL SBI Card Octane,Fuel,visa,Rs.1499,Rs.1499,200000,No,1.25%,1.25%,7.25%,3.50%,0,0,42.00%,720,25000,BPCL pump users; 7.25% value-back
+10,HDFC Bank,HDFC IndianOil Credit Card,FUEL,RuPay,Rs.500,Rs.500,150000,No,2%,1%,5%,3.50%,0,0,42.00%,700,18000,IndianOil users; daily commuters
+11,HDFC Bank,HDFC Infinia Credit Card,lifestyle,Visa,Rs.12500,Rs.12500,N/A,No,10%,3.33%,-,2.00%,-1,-1,23.88%,800,300000,HNIs; unlimited lounge; Club Marriott
+12,Kotak Bank,Kotak Royale Signature Card ,Lifestyle,visa,Rs.999,Rs.999,150000,No,2%,1%,N/A,3.50%,4,0,42.00%,720,40000,Working professionals; 2 free movie tickets/month
+13,IndusInd Bank,IndusInd Platinum Aura Edge,LIFESTYLE,mastercard,FREE,FREE,,1,2%,1%,-,3.50%,2,0,42.00%,700,20000,Lifetime-free lifestyle card
+14,Kotak Bank,Kotak 811 Dream Credit Card,secured,Visa,FREE,FREE,,1,1%,1%,N/A,3.50%,0,0,42.00%,0,0,No credit history; FD-backed
+15,AU Small Finance,AU Bank LIT Credit Card,Secured,visa,FREE,FREE,,1,2%,1%,-,1.50%,2,0,18.00%,680,15000,Customizable entry-level card
+15,AU Small Finance,AU Bank LIT Credit Card,Secured,visa,FREE,FREE,,1,2%,1%,-,1.50%,2,0,18.00%,680,15000,Customizable entry-level card

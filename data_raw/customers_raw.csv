@@ -1,0 +1,22 @@
+customer_id,full_name,age,gender,city,occupation,monthly_income,cibil_score,member_since,email,phone
+1,Arjun Mehta,28.0,M,Mumbai,Software Engineer,"85,000",762,15-04-2023,arjun.mehta@mail.com,98765 43210
+2,Priya Sharma,32,Female,Bengaluru,Product Manager,"1,25,000",790,20/11/2022,priya.sharma@mail.com,9845678901
+3,Rahul Verma,45,male,delhi,Senior Consultant,"2,00,000",815,2021-06-10,rahul.verma@mail.com,98-1234-5678
+4,Sneha Iyer,24.0,F,Chennai,Marketing Executive,"35,000",710,05-01-2024,sneha.iyer@mail.com,9894321098
+5,Vikram Nair,38,MALE,Hyderabad,Pilot,"2,50,000",830,12/09/2020,vikram.nair@mail.com,9866543210
+6,Ananya Gupta,27,female,kolkata,Content Creator,"45,000",,22-07-2023,ananya.gupta@mail.com,9831234567
+7,Rohan Joshi,31.0,M,Pune,Sales Manager,"72,000",755,2022-03-18,rohan.joshi@mail.com,9823456789
+8,Divya Pillai,29,F,Kochi,Dentist,"90,000",745,14/02/2023,divya.pillaimail.com,9847654321
+9,Aditya Kapoor,22,male,jaipur,MBA Student,0,,01-06-2024,aditya.kapoor@mail.com,9978901234
+10,Meera Reddy,42.0,FEMALE,Hyderabad,IT Director,"3,20,000",840,08-12-2019,meera.reddy@mail.com,9848765432
+11,Sandeep Kumar,35,M,LUDHIANA,Fleet Owner,"1,80,000",770,25/08/2021,sandeep.kumar@mail.com,98143 21098
+12,Pooja Desai,26,female,Surat,Fashion Blogger,"30,000",695,10-03-2024,pooja.desai@mail.com,9898765432
+13,Amit Trivedi,55.0,MALE,Mumbai,CFO,"5,00,000",850,2018-05-20,amit.trivedi@mail.com,9820123456
+14,Shruti Bansal,30,F,Delhi,HR Manager,"65,000",740,15/09/2022,shruti.bansal@mail.com,9818901234
+15,Nikhil Rao,33,male,bengaluru,DevOps Engineer,"1,45,000",795,30-04-2021,nikhil.rao@mail.com,9844567890
+16,Kavitha Sundar,48.0,Female,Chennai,Cardiologist,"4,00,000",825,22-11-2017,kavitha.sundar@mail.com,9890123456
+17,Gaurav Singh,25,M,Noida,Delivery Executive,"22,000",680,18/04/2024,gaurav.singh@mail.com,9582345678
+18,Lakshmi Patel,37,female,Ahmedabad,Textile Business,"1,50,000",780,14-07-2020,lakshmi.patel@mail.com,9974321098
+19,Rajesh Nambiar,41.0,MALE,Kochi,Bank Manager,"80,000",760,2021-01-05,rajesh.nambiar@mail.com,98471 23456
+20,Tanvi Choudhury,23,F,KOLKATA,Junior Analyst,"28,000",705,20/08/2024,tanvi.choudhury@mail.com,9830456789
+,,,,,,,,,,

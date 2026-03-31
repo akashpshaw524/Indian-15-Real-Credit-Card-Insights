@@ -1,0 +1,57 @@
+txn_id,app_id,txn_date,amount,merchant,category,is_international,reward_earned,status
+1,1,05-01-2024,"Rs.4,500",Swiggy ,Dining,No,180,Success
+2,1,12/01/2024,"Rs.12,000",BESCOM Electricity,utilities,No,600,SUCCESS
+3,1,2024-01-18,"Rs.8,500",Amazon.in,Online,No,340,success
+4,1,03-02-2024,"Rs.3,900",Zomato,DINING,No,156,Success
+5,1,14/02/2024,"Rs.9,500",TATA CLiQ,online,No,380,SUCCESS
+6,2,2024-01-08,"Rs.25,000",MakeMyTrip,Travel,No,1250,success
+7,2,20-01-2024,"Rs.6,500",ITC Maurya Delhi,dining,No,130,Success
+8,2,05/02/2024,"Rs.32,000",Air India,TRAVEL,No,1600,SUCCESS
+9,2,2024-02-19,"Rs.5,500",Taj Mahal Palace,Dining,No,110,success
+10,3,03-01-2024,"Rs.85,000",Singapore Airlines,Travel,Yes,2833.33,Success
+11,3,15/01/2024,"Rs.15,000",JW Marriott Mumbai ,travel,No,500,SUCCESS
+12,3,2024-02-01,"Rs.1,80,000",Rolex Boutique,Luxury,No,6000,success
+13,3,22-02-2024,"Rs.35,000",Park Hyatt Goa,TRAVEL,No,1166.67,Success
+14,4,10-01-2024,"Rs.3,200",Flipkart,online,No,96,SUCCESS
+15,4,22/01/2024,"Rs.1,500",Zomato,Dining,No,15,success
+16,4,2024-02-12,"Rs.5,600",Amazon.in,Online,No,280,Success
+17,4,18-02-2024,"Rs.4,200",Myntra,ONLINE,No,210,SUCCESS
+18,5,07-01-2024,"Rs.45,000",Etihad Airways,Travel,Yes,2250,success
+19,5,25/01/2024,"Rs.12,000",Hilton Dubai,travel,Yes,600,Success
+20,5,2024-02-12,"Rs.65,000",Qatar Airways,TRAVEL,Yes,3250,SUCCESS
+21,6,09-01-2024,"Rs.2,800",Myntra,online,No,140,success
+22,6,16/01/2024,"Rs.5,600",Amazon.in,Online,No,280,Success
+23,6,2024-02-07,"Rs.4,200",Flipkart,ONLINE,No,210,SUCCESS
+24,7,11-01-2024,"Rs.9,500",Croma Electronics,EMI,No,95,success
+25,7,28/01/2024,"Rs.4,200",BookMyShow,entertainment,No,42,Success
+26,7,2024-02-20,"Rs.18,000",Apple Store,EMI,No,180,SUCCESS
+27,8,06-01-2024,"Rs.18,000",IndiGo Airlines,Travel,No,900,success
+28,8,19/01/2024,"Rs.7,500",Oberoi Hotel Kochi ,travel,No,375,Success
+29,8,2024-02-15,NULL,SBI ATM Cash,Utilities,No,,Failed
+30,9,15-02-2024,"Rs.2,500",Amazon.in,Online,No,25,SUCCESS
+31,9,10/03/2024,"Rs.1,800",Reliance Smart,ONLINE,No,18,success
+32,10,05-01-2024,"Rs.95,000",Emirates Airlines,Travel,Yes,3166.67,Success
+33,10,18/01/2024,"Rs.45,000",Four Seasons Dubai,travel,Yes,1500,SUCCESS
+34,10,2024-02-08,"Rs.2,20,000",Singapore Airlines ,TRAVEL,Yes,7333.33,success
+35,10,25-02-2024,"Rs.75,000",Chanel Boutique,Luxury,No,2500,Success
+36,11,04-01-2024,"Rs.5,200",BPCL Pump Ludhiana,fuel,No,377,SUCCESS
+37,11,14/01/2024,"Rs.4,800",BPCL Pump Ludhiana,Fuel,No,348,success
+38,11,2024-01-26,"Rs.6,100",BPCL Pump Amritsar,FUEL,No,442.25,Success
+39,11,05-02-2024,"Rs.5,500",BPCL Pump Ludhiana,fuel,No,398.75,SUCCESS
+40,11,16/02/2024,"Rs.4,900",BPCL Pump Chandigarh,Fuel,No,355.25,success
+41,12,13-01-2024,"Rs.4,500",Amazon.in,online,No,225,Success
+42,12,20/02/2024,"Rs.3,100",Myntra,ONLINE,No,155,SUCCESS
+43,13,02-01-2024,"Rs.1,20,000",Bulgari Watch Store,Luxury,No,4000,success
+44,13,17/01/2024,"Rs.2,50,000",British Airways,travel,Yes,8333.33,Success
+45,13,2024-02-10,"Rs.45,000",Novotel Paris ,TRAVEL,Yes,1500,SUCCESS
+46,15,10-01-2024,"Rs.15,000",Google Pay Bills,utilities,No,750,success
+47,15,21/01/2024,"Rs.22,000",MakeMyTrip,Travel,No,440,Success
+48,15,2024-02-18,"Rs.9,800",BESCOM Electricity,UTILITIES,No,490,SUCCESS
+49,16,05-01-2024,"Rs.95,000",Emirates Airlines,travel,Yes,3166.67,success
+50,16,03/02/2024,"Rs.55,000",Conrad Maldives,Travel,Yes,1833.33,Success
+51,16,2024-02-25,"Rs.75,000",Chanel Boutique,LUXURY,No,2500,SUCCESS
+52,18,07-01-2024,"Rs.14,000",IndiGo Airlines,travel,No,420,success
+53,18,22/01/2024,"Rs.8,500",Le Meridien Pune,Travel,No,255,Reversed
+54,19,08-01-2024,"Rs.6,800",Amazon.in,online,No,340,Success
+55,19,14/02/2024,"Rs.4,300",Flipkart,ONLINE,No,215,SUCCESS
+56,7,28-02-2024,-500,Refund - BookMyShow,entertainment,No,,success
