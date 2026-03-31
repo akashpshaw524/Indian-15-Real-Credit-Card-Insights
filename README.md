@@ -1,4 +1,4 @@
-# 💳 India Credit Card Intelligence Dashboard
+# 💳 Real 15 Indian Credit Cards Intelligence Dashboard
 ### Power BI Portfolio Project | 2026
 
 ---
@@ -90,21 +90,23 @@ interactive report.
 
 ## 📁 Files in This Repository
 ```
-cc-powerbi-project/
+Indian-15-Real-Credit-Card-Insights/
 ├── data_raw/                  ← Original messy CSV files
 │   ├── credit_cards_raw.csv
 │   ├── customers_raw.csv
 │   ├── applications_raw.csv
 │   └── transactions_raw.csv
-├── screenshots/
-│   ├── before_cleaning/       ← Power Query before screenshots
-│   ├── after_cleaning/        ← Power Query after screenshots
+├── Screenshots/
 │   ├── data_model.png         ← Star schema screenshot
 │   └── dashboard_pages/       ← All 3 report page screenshots
 ├── cc_dashboard.pbix          ← Power BI file
 └── README.md
 ```
-
+ Data_model.png         ← ![Star Schema](Screenshots/Star_Schema.png)
+ Dashboard_page_1       ← ![Intelligence Dashboard Page 1](Screenshots/Dashboard_page_1.png)
+ Dashboard_page_2       ← ![Intelligence Dashboard Page 1](Screenshots/Dashboard_page_2.png)
+ Dashboard_page_3       ← ![Intelligence Dashboard Page 1](Screenshots/Dashboard_page_3.png)
+ 
 ---
 
 ## 🚀 How to Open
@@ -118,4 +120,4 @@ cc-powerbi-project/
 
 **Author:** Akash | Kolkata, India
 **LinkedIn:** your-linkedin-url
-**Tools:** Power BI Desktop · DAX · Power Query · M-code
+**Tools:** Power BI Desktop · DAX · Power Query 
